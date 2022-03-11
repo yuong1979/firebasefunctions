@@ -6,6 +6,9 @@ firebase init
 #cd into functions and install
 npm install
 
+#go to the main folder and run the emulator
+firebase emulators:start
+
 
 
 
